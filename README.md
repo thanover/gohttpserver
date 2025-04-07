@@ -27,4 +27,4 @@ Create a HTTP server that can:
 4. read over this document: [HTTP Made Really Easy](https://www.jmarshall.com/easy/http/)
 5. started coding...
 
-!! Side Quest: I want to log what's happening to the console as well as to a file. I want it to look decent as well. Let's write a quick module to do this!
+⚠️ Side Quest: I want to log what's happening to the console as well as to a file. I decided to create and publish a quick module to do this: [https://github.com/thanover/gologger](https://github.com/thanover/gologger)
