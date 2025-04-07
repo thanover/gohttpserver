@@ -15,7 +15,7 @@ Create a HTTP server that can:
 
 ## Rules
 
-1. I can only use **os**, **fmt** and **net** go libraries
+1. I can only use the built-in go libraries (besides http of course), as well as any other modules I've published myself
 2. I can't copy/paste code from other place, besides simple one liners
 3. I can use AI, but only to explain things and NOT to generate code
 
@@ -27,4 +27,4 @@ Create a HTTP server that can:
 4. read over this document: [HTTP Made Really Easy](https://www.jmarshall.com/easy/http/)
 5. started coding...
 
-⚠️ Side Quest: I want to log what's happening to the console as well as to a file. I decided to create and publish a quick module to do this: [https://github.com/thanover/gologger](https://github.com/thanover/gologger)
+⚠️ Side Quest: While I started to code, I decided I wanted to log what's happening to the console as well as to a file. I figured this is a fun way to learn some more basics of go. I decided to create and publish a module to do this: [https://github.com/thanover/gologger](https://github.com/thanover/gologger)
